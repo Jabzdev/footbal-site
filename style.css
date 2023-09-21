@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    background: url(images/UCL.gif);
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: #e3f0f3;
+    font-family: 'Permanent Marker', cursive;
+}    
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    color: #0e2994;
+    font-weight: 800;
+    font-family: inherit;
+}
+
+#word {
+    border-bottom: 3px solid #e3f0f3;
+}
